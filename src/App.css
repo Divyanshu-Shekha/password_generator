@@ -50,3 +50,11 @@
   padding: 2px;
   background-color: aqua;
 }
+
+@media screen and (max-width : 720px) {
+  .main_container {
+    width: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
