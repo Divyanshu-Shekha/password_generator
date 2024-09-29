@@ -57,4 +57,19 @@
     padding-left: 40px;
     padding-right: 40px;
   }
+  .text_container .password_container{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px 0 0 20px;
+    border: 1px solid;
+    padding: 2px;
+  }
+  .text_container .button_container{
+    height: 35px;
+    width: 50px;
+    border-radius: 0 20px 20px 0;
+    border: 1px solid;
+    padding: 2px;
+    background-color: aqua;
+  }
 }
